@@ -1,0 +1,6 @@
+{
+  "name": "Ventoy+",
+  "description": "Next-generation multiboot USB creator, ISO manager, and secure boot flasher with AI integrity verification, real-time Google Search OS catalog, and security vault.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
